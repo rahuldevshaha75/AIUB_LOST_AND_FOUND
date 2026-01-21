@@ -59,6 +59,8 @@ This system allows users to submit lost and found reports, search for items, and
 
 ## 🗂️ Database Structure
 
+## ER Diagram Link: https://excalidraw.com/#json=AqaJsTaUPB3mGtdSzzDTk,JtzU_eVDK7BxdkxPNCibhQ
+
 ### Users
 
 * UserID (PK)
