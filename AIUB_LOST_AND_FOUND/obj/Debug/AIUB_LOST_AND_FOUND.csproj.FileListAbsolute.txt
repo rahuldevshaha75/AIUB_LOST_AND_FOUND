@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\AIUB_LOST_AND_FOUND\AIUB_LOST_AND_FOUND\obj\Debug\AIUB_LOST_AND_FOUND.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\AIUB_LOST_AND_FOUND\AIUB_LOST_AND_FOUND\obj\Debug\AIUB_LOST_AND_FOUND.loginForm.resources
+C:\Users\Admin\Desktop\AIUB_LOST_AND_FOUND\AIUB_LOST_AND_FOUND\obj\Debug\AIUB_LOST_AND_FOUND.Properties.Resources.resources
+C:\Users\Admin\Desktop\AIUB_LOST_AND_FOUND\AIUB_LOST_AND_FOUND\obj\Debug\AIUB_LOST_AND_FOUND.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\AIUB_LOST_AND_FOUND\AIUB_LOST_AND_FOUND\obj\Debug\AIUB_LOST_AND_FOUND.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\AIUB_LOST_AND_FOUND\AIUB_LOST_AND_FOUND\bin\Debug\AIUB_LOST_AND_FOUND.exe.config
+C:\Users\Admin\Desktop\AIUB_LOST_AND_FOUND\AIUB_LOST_AND_FOUND\bin\Debug\AIUB_LOST_AND_FOUND.exe
+C:\Users\Admin\Desktop\AIUB_LOST_AND_FOUND\AIUB_LOST_AND_FOUND\bin\Debug\AIUB_LOST_AND_FOUND.pdb
+C:\Users\Admin\Desktop\AIUB_LOST_AND_FOUND\AIUB_LOST_AND_FOUND\obj\Debug\AIUB_LOST_AND_FOUND.exe
+C:\Users\Admin\Desktop\AIUB_LOST_AND_FOUND\AIUB_LOST_AND_FOUND\obj\Debug\AIUB_LOST_AND_FOUND.pdb
+C:\Users\Admin\Desktop\AIUB_LOST_AND_FOUND\AIUB_LOST_AND_FOUND\obj\Debug\AIUB_LOST_AND_FOUND.AdminDashboard.resources
+C:\Users\Admin\Desktop\AIUB_LOST_AND_FOUND\AIUB_LOST_AND_FOUND\obj\Debug\AIUB_LOST_AND_FOUND.StaffDashboard.resources
+C:\Users\Admin\Desktop\AIUB_LOST_AND_FOUND\AIUB_LOST_AND_FOUND\obj\Debug\AIUB_LOST_AND_FOUND.ManageUsersForm.resources
+C:\Users\Admin\Desktop\AIUB_LOST_AND_FOUND\AIUB_LOST_AND_FOUND\obj\Debug\AIUB_LOST_AND_FOUND.AddEditReportForm.resources
+C:\Users\Admin\Desktop\AIUB_LOST_AND_FOUND\AIUB_LOST_AND_FOUND\obj\Debug\AIUB_LOST_AND_FOUND.MatchConfirmForm.resources
+C:\Users\Admin\Desktop\AIUB_LOST_AND_FOUND\AIUB_LOST_AND_FOUND\obj\Debug\AIUB_LOST_AND_FOUND.ManageReportsForm.resources
